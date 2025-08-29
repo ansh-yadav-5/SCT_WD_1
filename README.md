@@ -3,7 +3,8 @@ Task 1 of an intership in Skillcraft Technology. Its a landing page of a AnshFit
 
 
 Here Its a preview 
-<img width="1600" height="900" alt="Screenshot (8)" src="https://github.com/user-attachments/assets/2a639080-b345-4e15-82c2-8d3336925fda" />
+<img width="1600" height="900" alt="Screenshot (10)" src="https://github.com/user-attachments/assets/9dcd6cfb-188f-4f1b-9d43-8f992d20f9b8" />
+
 
 
 
